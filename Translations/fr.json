@@ -1,0 +1,193 @@
+{
+  "header": {
+    "documents": "",
+    "dashboards": "",
+    "help": "",
+    "monitoring": "",
+    "TestJS": "",
+    "test": "",
+    "stop": "",
+    "stop2": "",
+    "dashboardsSubMenu": {
+      "bigScreen": "",
+      "twitter": "",
+      "covid": "",
+      "inform": "",
+      "sprinklr": "",
+      "admin": "",
+      "aaa": ""
+    },
+    "helpSubMenu": {
+      "reference": "",
+      "feedback": ""
+    },
+    "userSubMenu": {
+      "account": "",
+      "logOut": "",
+      "sub1": {
+        "sub2": {
+          "sub3": {
+            "finalkey": ""
+          }
+        }
+      }
+    }
+  },
+  "navbar": {
+    "explore": "",
+    "sources": "",
+    "activities": "",
+    "boards": ""
+  },
+  "filter": {
+    "showMore": "",
+    "showLess": "",
+    "selectAll": "",
+    "deselectAll": ""
+  },
+  "filtersBoard": {
+    "boardsSearch": "",
+    "includeArchived": "",
+    "searchLabel": "",
+    "filtersCountriesName": "",
+    "filtersCountriesLabel": "",
+    "filtersUserTagsName": "",
+    "filtersUserTagsLabel": ""
+  },
+  "filtersActivities": {
+    "name": "",
+    "searchLabel": "",
+    "fromDate": "",
+    "toDate": "",
+    "labels": {
+      "createcommentactivity": "",
+      "removecommentactivity": "",
+      "createquerycommentactivity": "",
+      "removequerycommentactivity": "",
+      "createqueryactivity": "",
+      "updatequeryactivity": "",
+      "activatequeryactivity": "",
+      "removequeryactivity": "",
+      "restorequeryactivity": "",
+      "pinitemtoqueryactivity": "",
+      "unpinitemtoqueryactivity": "",
+      "itemreadpreviewactivity": "",
+      "itemreaddetailactivity": "",
+      "itemflaggedactivity": "",
+      "itemunflaggedactivity": "",
+      "exportitemsactivity": "",
+      "removechildtreenodeactivity": "",
+      "addchildtreenodeactivity": "",
+      "updatetreenodeactivity": ""
+    }
+  },
+  "filterTeams": {
+    "name": "",
+    "searchLabel": "",
+    "labels": {
+      "createcommentactivity": "",
+      "removecommentactivity": "",
+      "createquerycommentactivity": "",
+      "removequerycommentactivity": "",
+      "createqueryactivity": "",
+      "updatequeryactivity": "",
+      "activatequeryactivity": "",
+      "removequeryactivity": "",
+      "restorequeryactivity": "",
+      "pinitemtoqueryactivity": "",
+      "unpinitemtoqueryactivity": "",
+      "itemreadpreviewactivity": "",
+      "itemreaddetailactivity": "",
+      "itemflaggedactivity": "",
+      "itemunflaggedactivity": "",
+      "exportitemsactivity": "",
+      "removechildtreenodeactivity": "",
+      "addchildtreenodeactivity": "",
+      "updatetreenodeactivity": ""
+    }
+  },
+  "filtersArchives": {
+    "name": "",
+    "labels": {
+      "true": "",
+      "false": ""
+    }
+  },
+  "boardsList": {
+    "boards": "",
+    "title": "",
+    "add": "",
+    "archived": "",
+    "active": ""
+  },
+  "board-list-item": {
+    "creator": "",
+    "createdOn": "",
+    "created": "",
+    "updated": "",
+    "active": "",
+    "riskAssesment": "",
+    "rational": "",
+    "boardetials": "",
+    "boardnodetails": "",
+    "boardmenudetails": "",
+    "boardmenuarchive": ""
+  },
+  "modal-languages": {
+    "title": "",
+    "description": "",
+    "close": "",
+    "tooltip": "",
+    "options": {
+      "01-last-48-hours": "",
+      "02-last-4-weeks": "",
+      "03-last-6-months": "",
+      "04-last-year": "",
+      "05-last-2-years": "",
+      "06-last-5-years": ""
+    }
+  },
+  "modalTimeframe": {
+    "title": "",
+    "description": "",
+    "close": "",
+    "tooltip": "",
+    "options": {
+      "01-last-48-hours": "",
+      "02-last-4-weeks": "",
+      "03-last-6-months": "",
+      "04-last-year": "",
+      "05-last-2-years": "",
+      "06-last-5-years": ""
+    }
+  },
+  "modalSorting": {
+    "title": "",
+    "description": "",
+    "close": "",
+    "sorted": "",
+    "sort": "",
+    "tooltip": "",
+    "options": {
+      "01-creation-date": "",
+      "02-last-update": "",
+      "03-name": ""
+    }
+  },
+  "pagination": {
+    "showing": "",
+    "of": "",
+    "items": ""
+  },
+  "inputFeeedback": {
+    "timeInput": {
+      "dateNoValid": "",
+      "dateFromError": "",
+      "dateToError": ""
+    }
+  },
+  "TEST group": {
+    "TEST group nested 1": {},
+    "test group nested 2": {}
+  }
+}
