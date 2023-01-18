@@ -1,185 +1,185 @@
 {
   "header": {
-    "monitoring": "",
-    "documents": "",
-    "dashboards": "",
-    "help": "",
-    "TestJS": "",
-    "test": "",
-    "stop": "",
-    "stop2": "",
-    "Hello Lbl": "",
-    "Morning": "",
-    "Night": "",
+    "monitoring": "رصد",
+    "documents": "الوثائق",
+    "dashboards": "لوحات",
+    "help": "المساعدة والملاحظات",
+    "TestJS": "TestJs_en",
+    "test": "اختبر",
+    "stop": "https://eios-translation-frontend.azurewebsites.net/labels",
+    "stop2": "وقف",
+    "Hello Lbl": "مرحبًا بكم",
+    "Morning": "صباح الخير",
+    "Night": "تصبح على خير",
     "dashboardsSubMenu": {
-      "bigScreen": "",
-      "twitter": "",
-      "covid": "",
-      "inform": "",
-      "sprinklr": "",
-      "admin": "",
-      "aaa": ""
+      "bigScreen": "خريطة الشاشة الكبيرة",
+      "twitter": "لوحة تحكم تويتر",
+      "covid": "عدد حالات كوفيد-19",
+      "inform": "تحذير INFORM COVID-19 (خارجي)",
+      "sprinklr": "لوحة معلومات الرش",
+      "admin": "لوحة تحكم المسؤول",
+      "aaa": "أسداسا"
     },
     "helpSubMenu": {
-      "reference": "",
-      "feedback": ""
+      "reference": "الدليل المرجعي",
+      "feedback": "ردود الفعل"
     },
     "userSubMenu": {
-      "account": "",
-      "logOut": ""
+      "account": "تفاصيل الحساب",
+      "logOut": "الخروج"
     }
   },
   "navbar": {
-    "boards": "",
-    "explore": "",
-    "sources": "",
-    "activities": ""
+    "boards": "المجالس",
+    "explore": "استكشف",
+    "sources": "المصادر",
+    "activities": "آخر الأنشطة"
   },
   "filter": {
-    "showMore": "",
-    "showLess": "",
-    "selectAll": "",
-    "deselectAll": ""
+    "showMore": "اظهار المزيد",
+    "showLess": "عرض أقل",
+    "selectAll": "اختر الكل",
+    "deselectAll": "إلغاء تحديد الكل"
   },
   "filtersBoard": {
-    "boardsSearch": "",
-    "includeArchived": "",
-    "searchLabel": "",
-    "filtersCountriesName": "",
-    "filtersCountriesLabel": "",
-    "filtersUserTagsName": "",
-    "filtersUserTagsLabel": ""
+    "boardsSearch": "لوحات البحث",
+    "includeArchived": "تضمين اللوحات المؤرشفة",
+    "searchLabel": "اسم لوحة البحث",
+    "filtersCountriesName": "البلدان",
+    "filtersCountriesLabel": "البحث عن البلد",
+    "filtersUserTagsName": "علامات المستخدمين",
+    "filtersUserTagsLabel": "البحث عن علامة المستخدم"
   },
   "filtersActivities": {
-    "name": "",
-    "searchLabel": "",
-    "fromDate": "",
-    "toDate": "",
+    "name": "أنشطة مجالس الإدارة",
+    "searchLabel": "أنشطة لوحات البحث",
+    "fromDate": "من التاريخ",
+    "toDate": "حتى الآن",
     "labels": {
-      "createcommentactivity": "",
-      "removecommentactivity": "",
-      "createquerycommentactivity": "",
-      "removequerycommentactivity": "",
-      "createqueryactivity": "",
-      "updatequeryactivity": "",
-      "activatequeryactivity": "",
-      "removequeryactivity": "",
-      "restorequeryactivity": "",
-      "pinitemtoqueryactivity": "",
-      "unpinitemtoqueryactivity": "",
-      "itemreadpreviewactivity": "",
-      "itemreaddetailactivity": "",
-      "itemflaggedactivity": "",
-      "itemunflaggedactivity": "",
-      "exportitemsactivity": "",
-      "removechildtreenodeactivity": "",
-      "addchildtreenodeactivity": "",
-      "updatetreenodeactivity": ""
+      "createcommentactivity": "تعليق جديد على المادة",
+      "removecommentactivity": "إزالة التعليق على المقالة",
+      "createquerycommentactivity": "تعليق جديد على متن الطائرة",
+      "removequerycommentactivity": "إزالة التعليق على متن الطائرة",
+      "createqueryactivity": "إنشاء لوحة",
+      "updatequeryactivity": "لوحة التحديث",
+      "activatequeryactivity": "اختر اللوحة",
+      "removequeryactivity": "إغلاق المجلس",
+      "restorequeryactivity": "إعادة فتح اللوحة",
+      "pinitemtoqueryactivity": "تثبيت المادة على متن الطائرة",
+      "unpinitemtoqueryactivity": "إلغاء تثبيت المادة من مجلس الإدارة",
+      "itemreadpreviewactivity": "قراءة معاينة المقال",
+      "itemreaddetailactivity": "فحص تفاصيل المقال",
+      "itemflaggedactivity": "علم للمتابعة",
+      "itemunflaggedactivity": "إزالة علامة للمتابعة",
+      "exportitemsactivity": "تصدير مقالات مختارة",
+      "removechildtreenodeactivity": "الخيار الذي تمت إزالته في شجرة الفئات",
+      "addchildtreenodeactivity": "خيار جديد في شجرة الفئة",
+      "updatetreenodeactivity": "الخيار المحدث في شجرة الفئات"
     }
   },
   "filterTeams": {
-    "name": "",
-    "searchLabel": "",
+    "name": "افرقه",
+    "searchLabel": "فريق البحث",
     "labels": {
-      "createcommentactivity": "",
-      "removecommentactivity": "",
-      "createquerycommentactivity": "",
-      "removequerycommentactivity": "",
-      "createqueryactivity": "",
-      "updatequeryactivity": "",
-      "activatequeryactivity": "",
-      "removequeryactivity": "",
-      "restorequeryactivity": "",
-      "pinitemtoqueryactivity": "",
-      "unpinitemtoqueryactivity": "",
-      "itemreadpreviewactivity": "",
-      "itemreaddetailactivity": "",
-      "itemflaggedactivity": "",
-      "itemunflaggedactivity": "",
-      "exportitemsactivity": "",
-      "removechildtreenodeactivity": "",
-      "addchildtreenodeactivity": "",
-      "updatetreenodeactivity": ""
+      "createcommentactivity": "تعليق جديد على المادة",
+      "removecommentactivity": "إزالة التعليق على المقالة",
+      "createquerycommentactivity": "تعليق جديد على متن الطائرة",
+      "removequerycommentactivity": "إزالة التعليق على متن الطائرة",
+      "createqueryactivity": "إنشاء لوحة",
+      "updatequeryactivity": "لوحة التحديث",
+      "activatequeryactivity": "اختر اللوحة",
+      "removequeryactivity": "إغلاق المجلس",
+      "restorequeryactivity": "إعادة فتح اللوحة",
+      "pinitemtoqueryactivity": "تثبيت المادة على متن الطائرة",
+      "unpinitemtoqueryactivity": "إلغاء تثبيت المادة من مجلس الإدارة",
+      "itemreadpreviewactivity": "قراءة معاينة المقال",
+      "itemreaddetailactivity": "فحص تفاصيل المقال",
+      "itemflaggedactivity": "علم للمتابعة",
+      "itemunflaggedactivity": "إزالة علامة للمتابعة",
+      "exportitemsactivity": "تصدير مقالات مختارة",
+      "removechildtreenodeactivity": "الخيار الذي تمت إزالته في شجرة الفئات",
+      "addchildtreenodeactivity": "خيار جديد في شجرة الفئة",
+      "updatetreenodeactivity": "الخيار المحدث في شجرة الفئات"
     }
   },
   "filtersArchives": {
-    "name": "",
+    "name": "حالة المجالس",
     "labels": {
-      "true": "",
-      "false": ""
+      "true": "اللوحات المؤرشفة",
+      "false": "اللوحات النشطة"
     }
   },
   "boardsList": {
-    "boards": "",
-    "title": "",
-    "add": "",
-    "archived": "",
-    "active": ""
+    "boards": "المجالس",
+    "title": "قائمة المجالس",
+    "add": "إضافة لوحة جديدة",
+    "archived": "اللوحات المؤرشفة",
+    "active": "اللوحات النشطة"
   },
   "board-list-item": {
-    "creator": "",
-    "createdOn": "",
-    "created": "",
-    "updated": "",
-    "active": "",
-    "riskAssesment": "",
-    "rational": "",
-    "boardetials": "",
-    "boardnodetails": "",
-    "boardmenudetails": "",
-    "boardmenuarchive": ""
+    "creator": "خالق",
+    "createdOn": "تم الإنشاء بتاريخ",
+    "created": "انشاء",
+    "updated": "تحديث",
+    "active": "مجلس الإدارة نشط",
+    "riskAssesment": "تقييم المخاطر",
+    "rational": "مجلس الإدارة العقلاني",
+    "boardetials": "انقر لرؤية تفاصيل مجلس الإدارة",
+    "boardnodetails": "لا توجد تفاصيل متاحة",
+    "boardmenudetails": "عرض التفاصيل",
+    "boardmenuarchive": "مجلس الأرشيف"
   },
   "modal-languages": {
-    "title": "",
-    "description": "",
-    "close": "",
-    "tooltip": "",
+    "title": "اختر اللغة",
+    "description": "Lorem Ipsum هو ببساطة نص وهمي لصناعة الطباعة والتنضيد. كان Lorem Ipsum النص الوهمي القياسي في الصناعة منذ 1500s ، عندما أخذت طابعة غير معروفة",
+    "close": "إغلاق النافذة",
+    "tooltip": "انقر لتغيير اللغة",
     "options": {
-      "01-last-48-hours": "",
-      "02-last-4-weeks": "",
-      "03-last-6-months": "",
-      "04-last-year": "",
-      "05-last-2-years": "",
-      "06-last-5-years": ""
+      "01-last-48-hours": "آخر 48 ساعة",
+      "02-last-4-weeks": "آخر 4 أسابيع",
+      "03-last-6-months": " آخر 6 أشهر",
+      "04-last-year": "العام الماضي",
+      "05-last-2-years": "آخر 2 سنوات",
+      "06-last-5-years": "آخر 5 سنوات"
     }
   },
   "modalTimeframe": {
-    "title": "",
-    "description": "",
-    "close": "",
-    "tooltip": "",
+    "title": "حدد الإطار الزمني",
+    "description": "Lorem Ipsum هو ببساطة نص وهمي لصناعة الطباعة والتنضيد. كان Lorem Ipsum النص الوهمي القياسي في الصناعة منذ 1500s ، عندما أخذت طابعة غير معروفة",
+    "close": "إغلاق النافذة",
+    "tooltip": "انقر لتغيير الإطار الزمني للرسوم البيانية",
     "options": {
-      "01-last-48-hours": "",
-      "02-last-4-weeks": "",
-      "03-last-6-months": "",
-      "04-last-year": "",
-      "05-last-2-years": "",
-      "06-last-5-years": ""
+      "01-last-48-hours": "آخر 48 ساعة",
+      "02-last-4-weeks": "آخر 4 أسابيع",
+      "03-last-6-months": " آخر 6 أشهر",
+      "04-last-year": "العام الماضي",
+      "05-last-2-years": "آخر 2 سنوات",
+      "06-last-5-years": "آخر 5 سنوات"
     }
   },
   "modalSorting": {
-    "title": "",
-    "description": "",
-    "close": "",
-    "sorted": "",
-    "sort": "",
-    "tooltip": "",
+    "title": "لوحات الفرز",
+    "description": "Lorem Ipsum هو ببساطة نص وهمي لصناعة الطباعة والتنضيد. كان Lorem Ipsum النص الوهمي القياسي في الصناعة منذ 1500s ، عندما أخذت طابعة غير معروفة",
+    "close": "إغلاق النافذة",
+    "sorted": "مرتبة حسب",
+    "sort": "صنف",
+    "tooltip": "انقر لتغيير فرز اللوحات",
     "options": {
-      "01-creation-date": "",
-      "02-last-update": "",
-      "03-name": ""
+      "01-creation-date": "تاريخ الإنشاء",
+      "02-last-update": "آخر تحديث",
+      "03-name": "بالاسم"
     }
   },
   "pagination": {
-    "showing": "",
-    "of": "",
-    "items": ""
+    "showing": "عرض",
+    "of": "من",
+    "items": "العناصر لكل صفحة"
   },
   "inputFeeedback": {
     "timeInput": {
-      "dateNoValid": "",
-      "dateFromError": "",
-      "dateToError": ""
+      "dateNoValid": "التاريخ ils غير صالح",
+      "dateFromError": "لا يمكن أن يكون التاريخ من أكبر من التاريخ إلى",
+      "dateToError": "لا يمكن أن يكون التاريخ إلى أكبر من التاريخ من"
     }
   },
   "TEST group": {
@@ -188,18 +188,18 @@
   },
   "settings": {
     "parentSettings": {
-      "isAdmin": "",
-      "isUser": "",
+      "isAdmin": "صحيح",
+      "isUser": "خطأ",
       "childSettings": {
-        "isNestingAllowed": "",
-        "NestingLevel": ""
+        "isNestingAllowed": "صحيح",
+        "NestingLevel": "50"
       }
     }
   },
   "places": {
-    "longlabel": "",
-    "blog": "",
-    "meeting": "",
-    "fb": ""
+    "longlabel": "لوريم إيبسوم هو ببساطة نص وهمي لصناعة الطباعة والتنضيد. كان لوريم إيبسوم هو النص الوهمي القياسي في الصناعة منذ 1500s ، عندما أخذت طابعة غير معروفة مطبخا من النوع وسارعت إلى صنع كتاب عينة من النوع. لقد نجا ليس فقط خمسة قرون ، ولكن أيضا قفزة في التنضيد الإلكتروني ، وبقي دون تغيير جوهري. وقد شاع في 1960s مع الافراج عن أوراق Letraset التي تحتوي على مقاطع لوريم إيبسوم، ومؤخرا مع برامج النشر المكتبي مثل Aldus PageMaker بما في ذلك إصدارات من لوريم إيبسوم",
+    "blog": "G-المدونة",
+    "meeting": "جي ميت",
+    "fb": "إيوس-أف بي"
   }
 }
