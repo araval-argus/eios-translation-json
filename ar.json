@@ -1,13 +1,16 @@
 {
   "header": {
+    "monitoring": "",
     "documents": "",
     "dashboards": "",
     "help": "",
-    "monitoring": "",
     "TestJS": "",
     "test": "",
     "stop": "",
     "stop2": "",
+    "Hello Lbl": "",
+    "Morning": "",
+    "Night": "",
     "dashboardsSubMenu": {
       "bigScreen": "",
       "twitter": "",
@@ -23,21 +26,14 @@
     },
     "userSubMenu": {
       "account": "",
-      "logOut": "",
-      "sub1": {
-        "sub2": {
-          "sub3": {
-            "finalkey": ""
-          }
-        }
-      }
+      "logOut": ""
     }
   },
   "navbar": {
+    "boards": "",
     "explore": "",
     "sources": "",
-    "activities": "",
-    "boards": ""
+    "activities": ""
   },
   "filter": {
     "showMore": "",
@@ -189,5 +185,21 @@
   "TEST group": {
     "TEST group nested 1": {},
     "test group nested 2": {}
+  },
+  "settings": {
+    "parentSettings": {
+      "isAdmin": "",
+      "isUser": "",
+      "childSettings": {
+        "isNestingAllowed": "",
+        "NestingLevel": ""
+      }
+    }
+  },
+  "places": {
+    "longlabel": "",
+    "blog": "",
+    "meeting": "",
+    "fb": ""
   }
 }
